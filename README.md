@@ -34,8 +34,8 @@ I’m a backend-focused developer who loves building scalable and efficient syst
 
 ## 📈 GitHub Stats
 
-![Deepak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Deepak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-deepakgoli9640&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-deepakgoli9640&layout=compact&theme=radical)
 
 ---
 
