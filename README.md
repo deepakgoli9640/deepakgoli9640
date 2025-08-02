@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Deepak Goli
 
-🎯 Passionate Backend Developer | 💻 Java | ☕ Microservices | ⚛️ React.js | 🔌 gRPC
+🎯 Passionate Backend Developer | 💻 Java | ☕ Microservices | ⚛️ React.js | 🔌 gRPC | 🌱 Spring Boot
 
 ---
 
