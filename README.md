@@ -28,14 +28,15 @@ I’m a backend-focused developer who loves building scalable and efficient syst
 ### 🗄️ Databases
 - **MySQL**
 - **PostgreSQL**
-
+- **MongoDB**
 
 ---
 
 ## 📈 GitHub Stats
 
-![Deepak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-deepakgoli9640&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-deepakgoli9640&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepakgoli9640&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepakgoli9640&layout=compact&theme=radical)
+
 
 ---
 
